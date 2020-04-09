@@ -1,0 +1,7 @@
+POST http://localhost/api/user/
+Content-Type: application/json
+
+{
+    "userName": "user1",
+    "userEmail": "user1@freshfoods.com"
+}
